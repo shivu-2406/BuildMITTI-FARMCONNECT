@@ -1,0 +1,10 @@
+{
+  "description": "Connect farmers with essential resources and insights on soil health, climate, market trends, and inventory management for optimized agricultural practices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
